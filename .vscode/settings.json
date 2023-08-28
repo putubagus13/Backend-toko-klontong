@@ -1,0 +1,7 @@
+{
+    "editor.defaultFormatter": "<another formatter>",
+    "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+}
+  
